@@ -1,0 +1,3 @@
+Poruszamy się strzałkami.
+Myszką klikamy żeby przejść dalej.
+Po naciśnięciu ESC na klawiaturze wychodzimy z gry.
